@@ -1,0 +1,1 @@
+footer rész formázva plusz az képernyő aljára rögzítve
